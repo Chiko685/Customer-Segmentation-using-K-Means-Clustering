@@ -43,7 +43,7 @@ Choose the “siku” / elbow point where the WCSS drop slows significantly.
 In this project, the best value is typically K = 5.
 
 ## 🎯 3. Scatter Plot K-Means Clustering(n_cluster = 5)
-<img width="599" height="206" alt="Screenshot 2026-02-23 at 01 35 10" src="https://github.com/user-attachments/assets/e6559793-ce56-4a0c-aa59-2217a25ae420" />
+
 <img width="593" height="592" alt="Screenshot 2026-02-23 at 01 48 05" src="https://github.com/user-attachments/assets/c46562aa-76bc-4a41-9c62-9ea5f06493e5" />
 
 ## Result
@@ -52,9 +52,12 @@ In this project, the best value is typically K = 5.
 # 💡 Key Insights
 
       * K-Means identified 5 clear customer groups with distinct behaviors.
-      * We can see the cluster no.0 with Age = 32, have a high Annual Income and hig Spending Score = 82 compare to other cluster. So the company might want to centainly look at the cluster no.0 before generate any campaigns. 
-      * Cluster no.0 presents 54% shoppers are women and we should look for ways to attract these customers using marketing campaign ,targeting popular items in this cluster
-      * But there is one cluster (no.3) also have a high Spending Score =79 with the lowest Annual Income. This needs to run a deep research. Might be the customer of this cluster only had their purchase for discount, promotion etc.
+      * We can see the cluster no.0 with Age = 32, have a high Annual Income and hig Spending Score = 82 compare to other cluster.
+      So the company might want to centainly look at the cluster no.0 before generate any campaigns. 
+      * Cluster no.0 presents 54% shoppers are women and we should look for ways to attract these customers using 
+      marketing campaign ,targeting popular items in this cluster
+      * But there is one cluster (no.3) also have a high Spending Score =79 with the lowest Annual Income and Age =25. 
+      This needs to run a deep research. Might be the customer of this cluster only had their purchase for discount, promotion etc.
       * Others show low-spending segments that may need different strategies.
 
 
